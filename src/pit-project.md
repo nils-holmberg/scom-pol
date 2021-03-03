@@ -1,8 +1,8 @@
-Political Polarization and Online Influence Operations
-
-PIs: Michael Bossetta, Nils Holmberg
-
-Co-applicants:
+---
+title: Political Polarization and Online Influence Operations
+pi: Michael Bossetta, Nils Holmberg
+co-applicants:
+---
 
 # Intro, background
 
@@ -13,6 +13,8 @@ online influence operations (IOs) can be modelled on the example of digital mark
 the research on online IOs have developed sophisticated methods for analyzing online content and social networks. however research on media effects on target audiences remains understudied
 
 research on effective countermeasures to online influence operations is also scarce.. to some extent because media effects are difficult to study (time, confounding factors, individual differences)
+
+Media and communication psychology: 
 
 ## Polarization on individual level
 
@@ -32,7 +34,7 @@ hur kan detta samarbete se ut mellan platform och universitet?
 
 ## Research technology
 
-AIML in swedish language context, web portal with language models
+AIML in swedish language context, web portal with language models, collaboration with lund humanities lab
 
 Moderation robots
 
