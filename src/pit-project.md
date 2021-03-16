@@ -1,7 +1,7 @@
 ---
 title: Political Polarization and Online Influence Operations
-pi: Michael Bossetta, Nils Holmberg
-co-applicants:
+subtitle: PIs -- Michael Bossetta, Nils Holmberg
+co-applicants: humlab, psych, industry, etc
 ---
 
 # Intro, background
@@ -14,7 +14,7 @@ the research on online IOs have developed sophisticated methods for analyzing on
 
 research on effective countermeasures to online influence operations is also scarce.. to some extent because media effects are difficult to study (time, confounding factors, individual differences)
 
-Media and communication psychology: 
+Media and communication psychology framework: media effects, personality traits, content features. 
 
 ## Polarization on individual level
 
@@ -46,7 +46,7 @@ Concepts, theories: Differential, conditional media effects (Valkenburg). Connec
 
 # Methods, Project studies
 
-External collaborations: Partnership for Countering Influence Operations, Carnegie Endowment for International Peace, FB, Tobii, EUvsDisinfo? HUMLAB
+External collaborations: Partnership for Countering Influence Operations, Carnegie Endowment for International Peace, FB, Tobii, EUvsDisinfo? HUMLAB. Collaboration with psy.lu.se (Axel Ekström, Mikael Johansson)
 
 ## Study 1
 
