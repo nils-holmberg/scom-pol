@@ -24,7 +24,7 @@ Physiological correlates of affective polarization. Emotional image stimuli (<ht
 
 ## Ethics and legal
 
-manipulation of elections, ICCPR article 27-31
+Approval from ethical review board necessary for processing facial images in machine learning applications (e.g. deepfake generation), and when eleciting cognitive effects (e.g. memory effects). Manipulation of elections, ICCPR article 27-31
 
 platforms provide data for vetting researchers?
 
