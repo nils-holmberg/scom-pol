@@ -6,7 +6,7 @@ co-applicants: humlab, psych, industry, etc
 
 # Intro, background
 
-Aims, objectives, purpose. How are online influence operations (social media, hyperpartisan online news, disinfo websites, video etc) constructed, and what polarizing effects do they have on users?
+Aims, objectives, purpose. How are online influence operations (social media, hyperpartisan online news, disinfo websites, conspiracy videos, antivax) constructed, and what polarizing effects do they have on users?
 
 online influence operations (IOs) can be modelled on the example of digital marketing campaigns, but with the difference that political interests are the ultimate goal rather than commercial.
 
@@ -20,7 +20,9 @@ Media and communication psychology framework: media effects, personality traits,
 
 Physiological correlates of affective polarization. Emotional image stimuli (<http://wang.ist.psu.edu/emotion/kim2017.htm>), combine with text to generate political advert stimuli. Do individuals with certain personality traits (high neuroticism, emotionality) have a higher susceptibility to polarization, higher risks of negative effects?
 
-## Polarization on group level
+## Polarization on social level
+
+Role of ethnicity in spread of disinfo, online influence operations
 
 ## Ethics and legal
 
@@ -40,19 +42,35 @@ Moderation robots
 
 communication
 
-# Theoretical framework
+# Litterature review
 
-Concepts, theories: Differential, conditional media effects (Valkenburg). Connecting online content features and user behavioral/cognitive/emotional effects. Communication effects (lack of). Web interfaces. Profile source cue verification.
+Concepts, theories: Differential, conditional media effects (Valkenburg). Connecting online content features and user behavioral/cognitive/emotional effects. Communication effects (lack of). Web interfaces. Profile source cue verification. "Previous research, research gaps"
 
-# Methods, Project studies
+# Methods, Empirical studies
 
 External collaborations: Partnership for Countering Influence Operations, Carnegie Endowment for International Peace, FB, Tobii, EUvsDisinfo? HUMLAB. Collaboration with psy.lu.se (Axel Ekström, Mikael Johansson)
 
 ## Study 1
 
+### Aims and purpose  
+
 Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (AIML). Social network analysis to identify inauthentic content, activity. Port methods for computational content analysis to Swedish language context. Comparative swedish-english component. Use GPT-3 approach to generate text messages, use as stimuli to study effects on human users.
 
+### Existing research and hypotheses 
+
+### Design and data 
+
+### Contributions and significance
+
 ## Study 2
+
+### Aims and purpose  
+
+### Existing research and hypotheses 
+
+### Design and data 
+
+### Contributions and significance
 
 Timeline. RQ, hypotheses, methods. Psychological and physiological experiments, physiological correlates of affective polarization, pupil dilation, GSR, EEG, fMRI etc. Web browsing behavior.
 
@@ -64,9 +82,9 @@ Timeline. RQ, hypotheses, methods. Moral machines. Road blockage, no time to bra
 
 ## Study 4
 
-Timeline. RQ, hypotheses, methods,
+Timeline. RQ, hypotheses, methods. Antivax movement, polarization around covid-19 vaccinations. Online influence operations. the climate, sustainability angle could easily fit into the disinfo campaign research area.. the core idea would be to survey participants issue involvement (maybe as a pretest) and present normal vs deepfake videos of politicians that either support or go against their beliefs.. the hypothesis would be that deepfakes as such induce higher levels of fear (michael), higher levels of recall (axel), and lower levels of attitudes to politician (nils)
 
-# Results, contribution
+# Expected results, contribution
 
 individual level
 
@@ -78,25 +96,25 @@ technology, methods
 
 communication
 
-collaborations with FB, twitter, etc
+collaborations with FB, twitter, Swedish Institute (countering disinfo campaigns)
 
--   ^**RQ:**\ How\ are\ online\ influence\ operations\ (social\ media,\ websites,\ video\ etc)\ constructed,\ and\ what\ polarizing\ effects\ do\ they\ have\ on\ users?^
+- **RQ:** How are online influence operations (social media, websites, video etc) constructed, and what polarizing effects do they have on users?
 
--   ^**Concepts,\ theories:**\ Differential,\ conditional\ media\ effects\ (Valkenburg).\ Connecting\ online\ content\ features\ and\ user\ behavioral/cognitive/emotional\ effects.\ Communication\ effects\ (lack\ of).\ Web\ interfaces.\ Profile\ source\ cue\ verification.^
+- **Concepts, theories:** Differential, conditional media effects (Valkenburg). Connecting online content features and user behavioral/cognitive/emotional effects. Communication effects (lack of). Web interfaces. Profile source cue verification.
 
--   ^**Methodology:**\ Web\ scraping\ and\ automated\ content\ analysis\ (AIML).\ Social\ network\ analysis\ to\ identify\ inauthentic\ content,\ activity.\ Psychological\ and\ physiological\ experiments,\ physiological\ correlates\ of\ affective\ polarization,\ pupil\ dilation,\ GSR,\ EEG,\ fMRI\ etc^
+- **Methodology:** Web scraping and automated content analysis (AIML). Social network analysis to identify inauthentic content, activity. Psychological and physiological experiments, physiological correlates of affective polarization, pupil dilation, GSR, EEG, fMRI etc
 
--   ^**Material,\ Data:**\ Twitter\ data,\ Facebook\ pages\ API\ data,\ Online\ news\ websites,\ video\ data,\ web\ interaction\ data\ (web\ measures,\ likes),\ physiological\ data.\ Anything\ relating\ to\ Swedish\ election\ 2022?^
+- **Material, Data:** Twitter data, Facebook pages API data, Online news websites, video data, web interaction data (web measures, likes), physiological data. Anything relating to Swedish election 2022?
 
--   ^Pi:s/coordin:\ check\ the\ mindmap!^
+- Pi:s/coordin: check the mindmap!
 
--   ^**External\ collaborations:**\ Partnership\ for\ Countering\ Influence\ Operations,\ Carnegie\ Endowment\ for\ International\ Peace,\ FB,\ Tobii,\ EUvsDisinfo?\ HUMLAB^
+- **External collaborations:** Partnership for Countering Influence Operations, Carnegie Endowment for International Peace, FB, Tobii, EUvsDisinfo? HUMLAB. The Swedish Civil Contingencies Agency (MSB)
 
--   ^Individual\ vertical,\ continue\ to\ group\ level^
+- Individual vertical, continue to group level
 
--   ^Personality\ traits,\ big\ five\ =\>\ divide\ into 1)\ content, 2)\ effects^
+- Personality traits, big five => divide into 1) content, 2) effects
 
--   ^International\ comparisons?^
+- International comparisons?
 
 
 
