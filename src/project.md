@@ -70,7 +70,7 @@ Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (
 
 ### Aims and purpose  
 
-![alt text](img/some.png "image title")
+![alt text](../img/some.png "image title")
 
 ### Existing research and hypotheses 
 
