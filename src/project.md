@@ -6,7 +6,7 @@ co-applicants: humlab, psych, industry, etc
 
 # Intro, background
 
-Online influence operations can be defined as 
+Influence operations can be defined as 
 
 Western governments are increasingly concerned about disinformation on social media and other forms of online influence operations (IOs). Sweden, largely due to its position outside NATO and geographical proximity to Russia, has been previously identified as a strategic target of IOs on Facebook. For example, foreign state-sponsored media outlets, such as Sputnik and RT, have been active spreading disinformation on Facebook since at least 2015 [@kragh2017russia]. As artificial intelligence becomes increasingly sophisticated, the potential for more advanced methods of influence operations, such as deepfake videos, become a pressing threat for spreading false information from seemingly credible sources.
 
@@ -70,7 +70,7 @@ Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (
 
 ### Aims and purpose  
 
-![alt text](../img/some.png "image title")
+![alt text](../img/ios.png "image title")
 
 ### Existing research and hypotheses 
 
