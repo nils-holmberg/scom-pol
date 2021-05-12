@@ -5,7 +5,7 @@
 # folder content
 log/*
 src/*
-!src/pit-project.md
+!src/project.md
 tmp/*
 
 # keep empty dir
