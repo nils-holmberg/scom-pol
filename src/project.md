@@ -1,16 +1,48 @@
 ---
-title: Political Polarization, Disinformation, and Online Influence Operations in Sweden
+title: Political Polarization and Online Influence Operations in Sweden
 subtitle: PIs -- Michael Bossetta, Nils Holmberg
 co-applicants: humlab, psych, industry, etc
 ---
 
 # Intro, background
 
-Influence operations can be defined as 
+Whereas influence operations (IOs) can be defined broadly as the organized attempts by actors to achieve specific effects (attitudes, behaviors, decisions) among target audiences [@larson2009foundations], disinformation campaigns often have a more narrow focus on the spread of false information through inauthentic actors with the intent to create political division and polarization [@wanless2019you; @santa2013improving; @larson2009foundations]. According to these definitions, IOs may be considered as more or less coextensive with strategic (planned) communication, and also as a superset of disinformation campaigns. 
 
-Western governments are increasingly concerned about disinformation on social media and other forms of online influence operations (IOs). Sweden, largely due to its position outside NATO and geographical proximity to Russia, has been previously identified as a strategic target of IOs on Facebook. For example, foreign state-sponsored media outlets, such as Sputnik and RT, have been active spreading disinformation on Facebook since at least 2015 [@kragh2017russia]. As artificial intelligence becomes increasingly sophisticated, the potential for more advanced methods of influence operations, such as deepfake videos, become a pressing threat for spreading false information from seemingly credible sources.
+![need a better picture](../img/ios.png "need a better picture")
+
+Western governments are increasingly concerned about disinformation on social media and other forms of online influence operations. Sweden, largely due to its position outside NATO and geographical proximity to Russia, has been previously identified as a strategic target of IOs on Facebook. For example, foreign state-sponsored media outlets, such as Sputnik and RT, have been active spreading disinformation on Facebook since at least 2015 [@kragh2017russia]. And as artificial intelligence becomes increasingly sophisticated, the potential for more advanced methods of influence operations, such as deepfake videos, become a pressing threat for spreading false information from seemingly credible sources.
+
+Since influence operations have the objective of using media and communication to cause a range of cognitive effects in audience members (attitudinal, behavioral, etc), a suitable methodological approach to study IOs is provided by the media effects and media psychology research fields [@valkenburg2016media]. According to current media psychological theory, effects of online messages on audiences are mainly dependent on three factors: 1) the characteristics of the media message, 2) the cognitive and psychological makeup of the individuals receiving the message, and 3) the environment and context of internet use [@valkenburg2004children].
+
+- finding ways to measure effects of IOs in target audiences, media effects, media psychology
+- measure polarization effects in individuals, psychology, physiology... however also effects on social level!!
+- proof of activity is not the same as evidence of effects
+- understanding audience effects is prerequisite to deciding how, what to be countered, foster calm among audiences 
+- IOs, dinsinfo are highly networked, but research and countermeasures are not
+
+This subproject measures, evaluates, and offers solutions to counter online disinformation in Sweden. It accomplishes these aims through a three-pronged approach comprising: descriptive (Study 1), experimental (Studies 2 and 3), and prescriptive (Study 4) components.  
+
+The descriptive phase seeks to diagnose the locations, extent, and strategies of IOs in Sweden (Study 1). Although research is just starting to be conducted on IOs, it is primarily concentrated in the United States. Due to America’s unique demography and commercialized media system, the IOs evidenced there may not be similar to those conducted in Sweden. Thus, this sub-project's first research question is:  
+ 
+- RQ1: To what extent are online influence operations conducted in Sweden, and 			how are they constructed?  
+
+In the experimental phase, we seek to evaluate the effects of the disinformation strategies identified, and assess their potential for exacerbating ideological and affective polarization in Sweden. Here, we focus on individual level responses to disinformation, in terms of their effects on political opinions (Study 2) as well as how the interaction between technological and social mechanisms contribute to IOs deceiving citizens (Study 3). Therefore, we ask  
+
+- RQ2: What effect does disinformation in Sweden have on a) ideological and b) affective polarization?  
+
+- RQ3: How does the technological design of social media platforms contribute to the 	perceived authenticity of IOs?  
+
+In the prescriptive phase, we build on the findings of these studies to offer proposed solutions for counteracting any negative effects we observe (Study 4). We do so with an eye to regulatory solutions, in terms of how such counter-active measure could be integrated within existing legal structures at the national and European Level.  
+
+- RQ4: How can online disinformation be countered, and how can these counter-measures be feasibly integrated within existing regulatory frameworks?  
+
 
 How are online influence operations (social media, hyperpartisan online news, disinfo websites, conspiracy videos, antivax) constructed, and what polarizing effects do they have on users?
+- Continue with online, digital spread, audiences are more engaged.. 
+- no clear boundaries what is legitimate, acceptable, how far can operators go using digital tools
+- determine as society what IOs are acceptable, unacceptable
+
+
 
 online influence operations (IOs) can be modelled on the example of digital marketing campaigns, but with the difference that political interests are the ultimate goal rather than commercial.
 
@@ -69,8 +101,6 @@ Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (
 ## Study 2
 
 ### Aims and purpose  
-
-![alt text](../img/ios.png "image title")
 
 ### Existing research and hypotheses 
 
