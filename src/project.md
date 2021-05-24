@@ -4,11 +4,17 @@ subtitle: PIs -- Michael Bossetta, Nils Holmberg
 co-applicants: humlab, psych, industry, etc
 ---
 
+# Abstract
+
+The main objective of online influence operations (IOs) is to use communication interventions to affect peoples' attitudes, behaviors and decisions. Disinformation campaigns can be regarded as a type of IO that focuses on spreading and amplifying false information on the internet for the purpose of increasing political polarization among citizens in liberal democratic societies. There are two significant challenges in investigating and countering online influence operations. Firstly, we need to capture the unfolding of disinformation campaigns designed by inauthentic and highly agile actor networks, and apply computational methods to analyze this type of digital content at scale. Secondly, we need to need to understand and measure the cognitive and psychological effects of online influence operations in terms of affective, epistemic, and ideological polarization of target audiences, and use these insights to design effective and personalized countermeasures. 
+
+The present subproject will address these challenges in three different research phases. The first phase will initiate collaborations with multiple Swedish and international stakeholders (e.g. MSB, social media platforms, EU) in order to collect and analyze digital content that is produced, spread, and amplified through IOs. Main outcomes are expected to be an inventory of textual and pictorial content categories associated with disinformation campaigns, and methods to predict the authenticity of user profiles based on their online behaviors. In the second phase, the disinformation content collected will be used to design multiple experiments in which we measure the causal effects of this content on audiences' interaction behavior (website clicks, traffic), visual attention (eye-tracking), and memory (EEG). It is expected that content categories and individual differences will modulate any polarization effects. The third phase will be used to 
+
 # Intro, background
 
 Whereas influence operations (IOs) can be defined broadly as the organized attempts by actors to achieve specific effects (attitudes, behaviors, decisions) among target audiences [@larson2009foundations], disinformation campaigns often have a more narrow focus on the spread of false information through inauthentic actors with the intent to create political division and polarization [@wanless2019you; @santa2013improving; @larson2009foundations]. According to these definitions, IOs may be considered as more or less coextensive with strategic (planned) communication, and also as a superset of disinformation campaigns. 
 
-![need a better figure](../img/ios.png "need a better figure")
+![need better figure](../img/ios.png "need better figure")
 
 Western governments are increasingly concerned about disinformation on social media and other forms of online influence operations. Sweden, largely due to its position outside NATO and geographical proximity to Russia, has been previously identified as a strategic target of IOs on Facebook. For example, foreign state-sponsored media outlets, such as Sputnik and RT, have been active spreading disinformation on Facebook since at least 2015 [@kragh2017russia]. And as artificial intelligence becomes increasingly sophisticated, the potential for more advanced methods of influence operations, such as deepfake videos, become a pressing threat for spreading false information from seemingly credible sources.
 
@@ -49,11 +55,11 @@ Media and communication psychology framework: media effects, personality traits,
 
 ## Polarization on individual level
 
-Physiological correlates of affective polarization. Emotional image stimuli (<http://wang.ist.psu.edu/emotion/kim2017.htm>), combine with text to generate political advert stimuli. Do individuals with certain personality traits (high neuroticism, emotionality) have a higher susceptibility to polarization, higher risks of negative effects?
+Physiological correlates of affective polarization. Emotional image stimuli (<http://wang.ist.psu.edu/emotion/kim2017.htm>), combine with text to generate political advert stimuli. Do individuals with certain personality traits (high neuroticism, emotionality) have a higher susceptibility to polarization, higher risks of negative effects? Gender differences?
 
 ## Polarization on social level
 
-Role of ethnicity in spread of disinfo, online influence operations
+Role of ethnicity in spread of disinfo, online influence operations. Gender differences?
 
 ## Ethics and legal
 
@@ -67,11 +73,7 @@ hur kan detta samarbete se ut mellan platform och universitet?
 
 ## Research technology
 
-AIML in swedish language context, web portal with language models, collaboration with lund humanities lab
-
-Moderation robots
-
-communication
+AIML in swedish language context, web portal with language models, collaboration with lund humanities lab. Distinguish between tech as methods and tech as platform features (object of study). Moderation robots. Communication
 
 # Litterature review
 
