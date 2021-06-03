@@ -8,7 +8,7 @@ co-applicants: humlab, psych, industry, etc
 
 Online influence operations (IOs) aim to affect citizens' attitudes, behaviors, or decisions through strategic digital communication. Disinformation campaigns, for example, are IOs that seed and amplify false information, which may be contributing to polarization in liberal democracies such as Sweden. Researchers interested in studying and countering IOs are confronted with two main challenges. The first is identifying IOs as they unfold, which is difficult due to the agile networks of inauthentic accounts involved in these campaigns. The second challenge is measuring the cognitive and psychological effects of IOs in terms of affective, epistemic, and ideological polarization of target audiences. Both challenges need to be addressed to design effective and personalized countermeasures to such operations.  
 
-The present subproject will address these challenges in three successive research phases. The first phase will initiate collaborations with multiple Swedish and international stakeholders (e.g. MSB, social media platforms, EU) in order to collect and analyze digital content that is produced, spread, and amplified through IOs. Once a repository of disinformation content is built, the second phase conducts experiments that measure the causal effects of this content on audiences' polarization (self-reported attitudes), memory (EEG), interaction behavior (website clicks, traffic), and visual attention (eye-tracking). In the third phase, we build on the project's findings to propose technological and regulatory interventions that moderate, inoculate, or even reverse the polarizing effects of IOs and disinformation campaigns.  
+The present project will address these challenges in three successive research phases. The first phase will initiate collaborations with multiple Swedish and international stakeholders (e.g. MSB, social media platforms, EU) in order to collect and analyze digital content that is produced, spread, and amplified through IOs. Once a repository of disinformation content is built, the second phase conducts experiments that measure the causal effects of this content on audiences' polarization (self-reported attitudes), memory (EEG), interaction behavior (website clicks, traffic), and visual attention (eye-tracking). In the third phase, we build on the project's findings to propose technological and regulatory interventions that moderate, inoculate, or even reverse the polarizing effects of IOs and disinformation campaigns.  
 
 ---- 
 
@@ -63,9 +63,17 @@ Media and communication psychology framework: media effects, personality traits,
 
 Physiological correlates of affective polarization. Emotional image stimuli (<http://wang.ist.psu.edu/emotion/kim2017.htm>), combine with text to generate political advert stimuli. Do individuals with certain personality traits (high neuroticism, emotionality) have a higher susceptibility to polarization, higher risks of negative effects? Gender differences?
 
+### Gender aspects
+
+content analysis, how are gender represented in IOs, disinfo, traditional gender roles, gender stereotypes
+
+media effects, gender demographic variable, feminine-masculine scales
+
 ## Polarization on social level
 
-Role of ethnicity in spread of disinfo, online influence operations. Gender differences?
+Role of ethnicity in spread of disinfo, online influence operations. Social identification with gender groups, differences?
+
+### Gender aspects
 
 ## Ethics and legal
 
