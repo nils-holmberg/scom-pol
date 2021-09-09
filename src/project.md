@@ -8,11 +8,11 @@ co-applicants: humlab, psych, industry, etc
 
 Online influence operations (IOs) aim to affect citizens' attitudes, behaviors, or decisions through strategic digital communication. Disinformation campaigns, for example, are IOs that seed and amplify false information, which may be contributing to polarization in liberal democracies such as Sweden. Researchers interested in studying and countering IOs are confronted with two main challenges. The first is identifying IOs as they unfold, which is difficult due to the agile networks of inauthentic accounts involved in these campaigns. The second challenge is measuring the cognitive and psychological effects of IOs in terms of affective, epistemic, and ideological polarization of target audiences. Both challenges need to be addressed to design effective and personalized countermeasures to such operations.  
 
-The present project will address these challenges in three successive research phases. The first phase will initiate collaborations with multiple Swedish and international stakeholders (e.g. MSB, social media platforms, EU) in order to collect and analyze digital content that is produced, spread, and amplified through IOs. Once a repository of disinformation content is built, the second phase conducts experiments that measure the causal effects of this content on audiences' polarization (self-reported attitudes), memory (EEG), interaction behavior (website clicks, traffic), and visual attention (eye-tracking). In the third phase, we build on the project's findings to propose technological and regulatory interventions that moderate, inoculate, or even reverse the polarizing effects of IOs and disinformation campaigns.  
+The present project will address these challenges in three successive research phases. The first phase will initiate collaborations with multiple Swedish and international stakeholders (e.g. SI, MSB, social media platforms, EUvsDisinfo) in order to collect and analyze digital content that is produced, spread, and amplified through IOs. Once a repository of disinformation content is built, the second phase conducts experiments that measure the causal effects of this content on audiences' polarization (self-reported attitudes), memory (EEG), interaction behavior (website clicks, traffic), and visual attention (eye-tracking). In the third phase, we build on the project's findings to propose technological and regulatory interventions that moderate, inoculate, or even reverse the polarizing effects of IOs and disinformation campaigns.  
 
 ---- 
 
-[//]: # (some commented text)
+[//]: # (another stakeholder might be the swedish institute [dominik.dross@si.se], interesting to compare deepfakes to previous generations of computer viruses, in the sense of arms race between generation and identification technologies, organizational listening as a new area of strat com., organizational image analysis, i.e. crowdtangle)
 
 Main outcomes are expected to be an inventory of textual and pictorial content categories associated with disinformation campaigns, and methods to predict the authenticity of user profiles based on their online behaviors. In the second phase, disinformation content will be used to design multiple experiments in which we measure the causal effects on audiences' interaction behavior (website clicks, traffic), visual attention (eye-tracking), and memory (EEG). It is expected that content categories and individual personality traits will modulate any polarization effects. The third phase will be used to 
 
@@ -101,7 +101,7 @@ External collaborations: Partnership for Countering Influence Operations, Carneg
 
 ### Aims and purpose  
 
-Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (AIML). Social network analysis to identify inauthentic content, activity. Port methods for computational content analysis to Swedish language context. Comparative swedish-english component. Use GPT-3 approach to generate text messages, use as stimuli to study effects on human users.
+"Social listening" approach in colab with the Swedish Institute. Timeline. RQ, hypotheses, methods. Web scraping and automated content analysis (AIML). Social network analysis to identify inauthentic content, activity. Port methods for computational content analysis to Swedish language context. Comparative swedish-english component. Use GPT-3 approach to generate text messages, use as stimuli to study effects on human users.
 
 ### Existing research and hypotheses 
 
