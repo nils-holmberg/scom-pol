@@ -8,6 +8,7 @@ src/*
 !src/project.md
 tmp/*
 !tmp/res-app.pdf
+!tmp/project.docx
 
 # keep empty dir
 !log/.gitkeep
