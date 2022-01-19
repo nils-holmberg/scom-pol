@@ -1,9 +1,9 @@
-|time        |event        |speaker    |title |
-|:-----------|:------------|:----------|:-----|
-|09.00-09.30 |introduction |lene, nils |b     |
-|09.30-10.00 |             |a          |b     |
-|10.00-10.30 |seminar      |a          |b     |
-|10.30-11.00 |seminar      |a          |b     |
-|11.00-11.30 |seminar      |a          |b     |
-|11.30-12.00 |seminar      |a          |b     |
-|12.00-13.00 |lunch        |a          |b     |
+|time        |event        |speaker    |title                       |
+|:-----------|:------------|:----------|:---------------------------|
+|09.00-09.30 |introduction |lene, nils |some title placeholder here |
+|09.30-10.00 |seminar      |anamaria   |some title placeholder here |
+|10.00-10.30 |seminar      |michael    |some title placeholder here |
+|10.30-11.00 |break        |           |                            |
+|11.00-11.30 |seminar      |nils h     |some title placeholder here |
+|11.30-12.00 |workshop     |johan f    |some title placeholder here |
+|12.00-13.00 |lunch        |           |                            |
