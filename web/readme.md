@@ -4,7 +4,7 @@ The term affective polarization refers to the extent to which citizens feel more
 
 To lead the way in this important development, The Nordic MAP Network conducts three workshops in Sweden, Finland and Denmark. The workshop series gathers key stakeholders from academia and the industry, to establish a common understanding, and to improve ongoing empirical research projects. The first workshop will be held on March 8-9 2022, and is hosted by Strategic Communication at Lund University and the University of Bergen. 
 
-### Register here!
+#### Register here!
 
 Online participation [some link](https://twitter.com/nordicmap/status/1484118073300996099?s=20)
 
