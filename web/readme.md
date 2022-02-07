@@ -2,11 +2,11 @@
 
 The term **affective polarization** refers to the extent to which citizens feel more negatively toward other political parties than toward their own. Researchers do not know much about the link between news media coverage and affective polarization. One way to better understand affective polarization is to measure the effects of it, for example by setting up scientific experiments. Unlike just a few years ago, the technologies to measure emotion and cognition are readily available, e.g. measuring eye movements or brain waves. 
 
-To lead the way in this important development, the **Nordic MAP Network** conducts three workshops in Sweden, Finland and Denmark. The workshop series gathers key stakeholders from academia and the industry, to establish a common understanding, and to initiate empirical research projects. The first workshop will be held on March 8-9 2022, and is hosted by Strategic Communication at Lund University and the University of Bergen. 
+To lead the way in this important development, the **Nordic MAP Network** conducts three workshops in Sweden, Finland and Denmark. The workshop series gathers key stakeholders from academia and the industry in order to establish a common understanding, and to initiate empirical research projects. The first workshop will be held on **March 8** at Strategic Communication, Lund University (hybrid format), and **March 9** at the University of Bergen (online format). 
 
-#### Register here!
+#### Venue and registration March 8
 
-Online participation [some link](https://twitter.com/nordicmap/status/1484118073300996099?s=20)
+The first workshop will be held in hybrid format on March 8 at the Department of Strategic Communication. Participants can join physically at [Campus Helsingborg, room C312](https://goo.gl/maps/1hXuVHUfejqXzAEs9), or by registering for zoom participation. Please use the following link to [register on twitter](https://twitter.com/nordicmap/status/1490608070187274242?s=20&t=PcgApJdEPT7g04hxsIqOuw).
 
 ## March 8: Strategic Communication, Lund University
 
