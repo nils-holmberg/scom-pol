@@ -1,9 +1,7 @@
-|time        |event        |speaker    |title |
-|:-----------|:------------|:----------|:-----|
-|09.00-09.30 |introduction |lene, nils |b     |
-|09.30-10.00 |             |a          |b     |
-|10.00-10.30 |seminar      |a          |b     |
-|10.30-11.00 |seminar      |a          |b     |
-|11.00-11.30 |seminar      |a          |b     |
-|11.30-12.00 |seminar      |a          |b     |
-|12.00-13.00 |lunch        |a          |b     |
+|Time  |Event        |Speaker              |Title |
+|:-----|:------------|:--------------------|:-----|
+|10-11 |Introduction |Erik.Knudsen (UIB)   |TBA   |
+|11-12 |Lunch        |                     |      |
+|12-13 |Keynote 1    |Bert Bakker          |TBA   |
+|13-16 |Seminar      |                     |      |
+|16-17 |Keynote 2    |Magdalena Wojcieszak |TBA   |

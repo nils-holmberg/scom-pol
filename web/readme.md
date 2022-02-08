@@ -43,14 +43,17 @@ Open seminars and workshops on cognitive communication effects of text and image
 
 Online event hosted by [Erik.Knudsen@uib.no](Erik.Knudsen@uib.no).
 
-### Morning session:
+### Afternoon session
 
-some content...
+Theme will be announced. {tab-d2-pm}
 
-### Afternoon session:
-
-some content...
-
+|Time  |Event        |Speaker              |Title |
+|:-----|:------------|:--------------------|:-----|
+|10-11 |Introduction |Erik.Knudsen (UIB)   |TBA   |
+|11-12 |Lunch        |                     |      |
+|12-13 |Keynote 1    |Bert Bakker          |TBA   |
+|13-16 |Seminar      |                     |      |
+|16-17 |Keynote 2    |Magdalena Wojcieszak |TBA   |
 
 
 
