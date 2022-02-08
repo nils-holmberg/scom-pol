@@ -43,6 +43,10 @@ Open seminars and workshops on cognitive communication effects of text and image
 
 Online event hosted by [Erik.Knudsen@uib.no](Erik.Knudsen@uib.no).
 
+#### Venue and registration March 9
+
+This workshop session will be held in online format only at the University of Bergen. Zoom links for participation will be emailed and published before the event. Please use the following link to [register on twitter](https://twitter.com/nordicmap/status/1490608070187274242?s=20&t=PcgApJdEPT7g04hxsIqOuw).
+
 ### Afternoon session
 
 Theme will be announced. {tab-d2-pm}
