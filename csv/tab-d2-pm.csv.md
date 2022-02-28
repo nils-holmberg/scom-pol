@@ -1,7 +1,7 @@
-|Time  |Event        |Speaker              |Title |
-|:-----|:------------|:--------------------|:-----|
-|10-11 |Introduction |Erik.Knudsen (UIB)   |TBA   |
-|11-12 |Lunch        |                     |      |
-|12-13 |Keynote 1    |Bert Bakker          |TBA   |
-|13-16 |Seminar      |                     |      |
-|16-17 |Keynote 2    |Magdalena Wojcieszak |TBA   |
+|Time  |Event        |Speaker              |Title                                                                                                        |
+|:-----|:------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
+|10-11 |Introduction |Erik.Knudsen (UIB)   |Increasing the ecological validity of survey experiments: Unobtrusive logging of website browsing behavior   |
+|11-12 |Lunch        |                     |                                                                                                             |
+|12-13 |Keynote 1    |Bert Bakker          |TBA                                                                                                          |
+|13-16 |Seminar      |                     |                                                                                                             |
+|16-17 |Keynote 2    |Magdalena Wojcieszak |Polarization from political information? Not really. Why? Most people do not consume (partisan) (hard) news. |

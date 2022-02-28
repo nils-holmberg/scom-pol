@@ -36,6 +36,15 @@ Open seminars and workshops on cognitive communication effects of text and image
 |13.30-14.00 |Guided tour  |Maria Graziano (humlab.lu.se) |Physiological Measurements at Lund Humanities Lab                            |
 |14.00-14.30 |Seminar      |Marcus Nyström (humlab.lu.se) |What are eye movements, what do they indicate, and how can they be measured? |
 |14.30-15.00 |Break        |                              |                                                                             |
+|15.00-15.30 |Workshop     |Nils Holmberg (isk.lu.se)     |Constructing Online Survey Experiments for Measuring Cognitive Effects       |
+|15.30-16.00 |Seminar      |Nils Holmberg (isk.lu.se)     |Eye-tracking measurements and cognitive effects in media audiences           |
+
+|Time        |Event        |Speaker                       |Title                                                                        |
+|:-----------|:------------|:-----------------------------|:----------------------------------------------------------------------------|
+|13.00-13.30 |Introduction |Nils Holmberg (isk.lu.se)     |Measuring Affective Polarization: Cognitive Communication Effects            |
+|13.30-14.00 |Guided tour  |Maria Graziano (humlab.lu.se) |Physiological Measurements at Lund Humanities Lab                            |
+|14.00-14.30 |Seminar      |Marcus Nyström (humlab.lu.se) |What are eye movements, what do they indicate, and how can they be measured? |
+|14.30-15.00 |Break        |                              |                                                                             |
 |15.00-15.30 |Workshop     |Nils Holmberg (isk.lu.se)     |Constructing Online Survey Experiments                                       |
 |15.30-16.00 |Seminar      |Nils Holmberg (isk.lu.se)     |Eye-tracking measurements and cognitive effects in media audiences           |
 
@@ -50,6 +59,14 @@ This workshop session will be held in online format only at the University of Be
 ### Afternoon session
 
 Theme will be announced. {tab-d2-pm}
+
+|Time  |Event        |Speaker              |Title                                                                                                        |
+|:-----|:------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
+|10-11 |Introduction |Erik.Knudsen (UIB)   |Increasing the ecological validity of survey experiments: Unobtrusive logging of website browsing behavior   |
+|11-12 |Lunch        |                     |                                                                                                             |
+|12-13 |Keynote 1    |Bert Bakker          |TBA                                                                                                          |
+|13-16 |Seminar      |                     |                                                                                                             |
+|16-17 |Keynote 2    |Magdalena Wojcieszak |Polarization from political information? Not really. Why? Most people do not consume (partisan) (hard) news. |
 
 |Time  |Event        |Speaker              |Title |
 |:-----|:------------|:--------------------|:-----|
